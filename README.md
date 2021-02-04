@@ -6,6 +6,7 @@ Professional Goals
 ## HTML
 - [ ] Learn web accesibilty course from https://www.edx.org/course/web-accessibility-introduction
 - [ ] Refactor Projects HTML
+- [ ] Complete perosnal framework project.
 
 ## CSS
 - [ ] Learn advance grid layout from https://cssgrid.io/
@@ -17,6 +18,7 @@ Professional Goals
 - [ ] Learn transitions and animations
 - [ ] Make clone of https://animate.style/
 - [ ] Get better at naming conventions
+- [ ] Complete perosnal framework project.
 
 
 ## Javascript:
