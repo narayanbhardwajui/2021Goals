@@ -1,42 +1,60 @@
-Personal Goals
+Professional Goals
 ==============
+# Feb 04, 2021
 
-Personal goals made open source.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+## HTML
+- [ ] Learn web accesibilty course from https://www.edx.org/course/web-accessibility-introduction
+- [ ] Refactor Projects HTML
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+## CSS
+- [ ] Learn advance grid layout from https://cssgrid.io/
+- [ ] Learn Haoudini CSS.
+- [ ] Learn Tailwind Framework.
+- [ ] Learn Angular Material.
+- [ ] Use em or rem instead of px.
+- [ ] Refactor Projects CSS
+- [ ] Learn transitions and animations
+- [ ] Make clone of https://animate.style/
+- [ ] Get better at naming conventions
 
-# November 00, 2014
 
-### This Week's Goal: Be Awesome.
+## Javascript:
+- [ ] Learn Javascript basics from https://www.w3schools.com/js/DEFAULT.asp
+- [ ] Get Javascript Certificate from https://www.freecodecamp.org/learn/
+- [ ] Complete this free awesome Javascript course https://javascript30.com/
+- [ ] Front End Certifications from https://www.freecodecamp.org/learn/
+- [ ] JSON APIs and Ajax from https://www.freecodecamp.org/learn/
+- [ ] APIs and Microservices Certification from https://www.freecodecamp.org/learn/
 
-## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+## Project
+- [ ] Make TailwindCSS Components Project to help in my project and it should be open source.
+- [ ] Continuing CSS icons framework.
+- [ ] One Project in Angular Material.
+- [ ] One Project in React.
+- [ ] Make a game for learning CSS.
+- [ ] 30 days of CSS Challenge (No Gap)
+- [ ] 30 days of JS Challenge (No Gap)
 
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+## Others
+- [ ] Read Data Structure books
+- [ ] Learn OOPS
+- [ ] How DOM work
+- [ ] Service Worker
+- [ ] How Page Render 
+- [ ] Learn Lighthouse and Page Speed tool.
+- [ ] Make a blog,video or course for helping others in UI.
 
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+
+
+## Personal Goals
+- [ ] Learn Guitar
+- [ ] Improve Comunication skills
+- [ ] Improve fitness
+- [ ] Start Yoga and Meditation
+- [ ] Start Reading Books
+- [ ] Try to help others
+
+
+
