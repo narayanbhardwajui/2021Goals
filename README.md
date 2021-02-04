@@ -57,6 +57,10 @@ Professional Goals
 - [ ] Start Yoga and Meditation
 - [ ] Start Reading Books
 - [ ] Try to help others
+- [ ] Learn how to ride bikes
+- [ ] Travel atleast 5 places this year in india.
+- [ ] Start podcast in hindi and english genre story telling, jokes and motivational.
+- [ ] Teach atleast 1 people my all professional skills.
 
 
 
